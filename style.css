@@ -361,19 +361,19 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .right .SEO (Search Engine Optimization)::before{
+.skills-content .right .HTML ::before{
     width: 70%;
 }
-.skills-content .right .SEM (Search Engine Marketing)::before{
+.skills-content .right .CSS ::before{
     width: 80%;
 }
-.skills-content .right .CRO (Conversion Rate Optimization)::before{
+.skills-content .right .CRO ::before{
     width: 70%;
 }
 .skills-content .right .Analytics::before{
     width: 70%;
 }
-.skills-content .right .Content Marketing::before{
+.skills-content .right .Content Marketing ::before{
     width: 70%;
 }
 
